@@ -32,8 +32,8 @@
         padding: 20px 40px;
         font-size: 18px;
         font-weight: 600;
-        background-color: #A8202A;
-        border: 2px solid #B68900; /* Adiciona uma borda preta */
+        background-color: #B68900;
+        border: 2px solid #A8202A; /* Adiciona uma borda preta */
         border-radius: 30px;
         cursor: pointer;
         transition: all 0.2s; /* Transição para todos os efeitos */
